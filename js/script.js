@@ -6,13 +6,13 @@ const cards = [
     price: '$14.99'
   },
   {
-    img: "three.svg",
+    img: "math-logo.svg",
     name: "Course name",
     description: "Hello, world!",
     price: '$14.99'
   },
   {
-    img: "two.svg",
+    img: "online-english-tutor-01.svg",
     name: "Course name",
     description: "Hello, world!",
     price: '$14.99'
